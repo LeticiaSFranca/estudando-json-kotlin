@@ -1,0 +1,51 @@
+{
+    "dadosAluno": [
+        {
+            "disciplina": "Android",
+            "nome": "Estevão Gago",
+            "turma": "3D1"
+        },
+
+        {
+            "disciplina": "Atualidades",
+            "nome": "Letícia França",
+            "turma": "3D1"
+        },
+
+        {
+            "disciplina": "DEVWEB",
+            "nome": "Arthur Chagas",
+            "turma": "3D1"
+        },
+
+        {
+            "disciplina": "Português",
+            "nome": "Ana Septimo",
+            "turma": "3D1"
+        },
+
+        {
+            "disciplina": "DEVIOS",
+            "nome": "Lucas Sena",
+            "turma": "3D1"
+        },
+
+        {
+             "disciplina": "Framework",
+             "nome": "Pedro Luz",
+             "turma": "3D1"
+        },
+
+        {
+             "disciplina": "Matemática",
+             "nome": "Hellen Costa",
+             "turma": "3D1"
+        },
+
+        {
+             "disciplina": "Empreendeorismo",
+             "nome": "Guilherme",
+             "turma": "3D1"
+        }
+    ]
+}
